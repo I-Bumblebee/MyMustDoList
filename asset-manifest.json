@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyMustDoList/static/css/main.b980f3e2.css",
+    "main.js": "/MyMustDoList/static/js/main.f3d45bfc.js",
+    "static/media/bg-desktop-light.jpg": "/MyMustDoList/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/MyMustDoList/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/MyMustDoList/index.html",
+    "main.b980f3e2.css.map": "/MyMustDoList/static/css/main.b980f3e2.css.map",
+    "main.f3d45bfc.js.map": "/MyMustDoList/static/js/main.f3d45bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b980f3e2.css",
+    "static/js/main.f3d45bfc.js"
+  ]
+}
